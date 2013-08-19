@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\tagchanger.js">
+    <Files>
+      <File FileName="Assets\Scripts\CloudRotation.js" Line="12" Column="17" />
+      <File FileName="Assets\Scripts\Emb.js" Line="18" Column="20" />
+      <File FileName="Assets\Scripts\Pellet_Move.js" Line="46" Column="119" />
+      <File FileName="Assets\Scripts\CloudShrink.js" Line="5" Column="30" />
+      <File FileName="Assets\Scripts\JoystickController5.js" Line="33" Column="26" />
+      <File FileName="Assets\Scripts\CreateRope.js" Line="32" Column="2" />
+      <File FileName="Assets\Scripts\cloudparticledeath.js" Line="5" Column="32" />
+      <File FileName="Assets\Scripts\DestroyLetter.js" Line="45" Column="2" />
+      <File FileName="Assets\tagchanger.js" Line="14" Column="20" />
+      <File FileName="Assets\Scripts\ScoreKeeper.js" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\PRISM_Fire.js" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\Pickup.js" Line="140" Column="5" />
+      <File FileName="Assets\Scripts\scoreadder.js" Line="26" Column="47" />
+      <File FileName="Assets\Scripts\CreateLetter.js" Line="53" Column="46" />
+      <File FileName="Assets\Scripts\Level_Manager.js" Line="12" Column="20" />
+      <File FileName="Assets\Scripts\LetterBirth.js" Line="6" Column="41" />
+      <File FileName="Assets\Scripts\BumpOff.js" Line="23" Column="28" />
+      <File FileName="Assets\Scripts\score2.js" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
